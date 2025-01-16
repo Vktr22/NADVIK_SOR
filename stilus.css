@@ -1,0 +1,12 @@
+body{
+    background-image: url(design/teglafal.jpg);
+}
+header{
+    background-image: url(design/beer-new_401732638.jpg);
+}
+.tartalom{
+    background-color: black;
+}
+.menu{
+    background-color: gray;
+}
